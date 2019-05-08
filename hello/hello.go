@@ -1,14 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
+func hello() {
+	fmt.Println("Hello world goroutine")
+}
 func main() {
-	var i, k int
-	i = 6
-	j := 6
-	k = 6
-	fmt.Println(i)
-	fmt.Println(j)
-	fmt.Println(k)
-
+	go hello()
+	time.Sleep(1 * time.Second)
+	fmt.Println("main function")
 }
