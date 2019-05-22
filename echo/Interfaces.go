@@ -63,8 +63,9 @@ func main() {
 	// Cach 1
 	var s, v, m SalaryCalculator
 	s, v, m = pemp1, pemp2, cemp1
-	employees2 := []SalaryCalculator{s, v, m}
 	totalExpense1(s, v, m)
+	// 1.1
+	employees2 := []SalaryCalculator{s, v, m}
 	totalExpense2(employees2)
 
 	// Cach 2

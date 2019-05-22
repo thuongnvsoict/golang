@@ -15,11 +15,11 @@ import (
 var db *sql.DB
 
 type User struct{
-	Id int `json:"id"`
-	Username string `json:"username"`
-	Password string `json:"password"`
-	PhoneNumber	string `json:"phonenumber"`
-	Email string `json:"email"`
+	Id int `json:"id" form:"id" query:"id"`
+	Username string `json:"username" form:"username" query:"username"`
+	Password string `json:"password" form:"password" query:"password"`
+	PhoneNumber	string `json:"phonenumber" form:"phonenumber" query:"phonenumber"`
+	Email string `json:"email" form:"email" query:"email"`
 }
 
 type Cat struct{
