@@ -1,0 +1,702 @@
+[
+	{
+		"Publisher" : "motthegioi",
+		"Url" : "https://images.motthegioi.vn:8443/media/hoachopmua/31_10_2016/bnZ0.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_800x600/news/2019/05/24/bit-mat-ngoisao.vn-w340-h255.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "nld",
+		"Url" : "https://nld.mediacdn.vn/zoom/600_315/2019/5/22/hoangngan-15584974156351708941352-155849767635596131020.png",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "motthegioi",
+		"Url" : "https://images.motthegioi.vn:8443/media/hoachopmua/31_10_2016/bnZ0.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "tienphong",
+		"Url" : "https://image.tienphong.vn/Uploaded/duynam/2019_05_22/bia_2_15516213100911973876538_15516213214641225164667_crop_1551621386499358488477_20190509154152_YHXA.png",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vtv",
+		"Url" : "https://vtv1.mediacdn.vn/fb_thumb_bn/2019/5/22/ttnga1-1558528125950965635515.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/24/chong-nang-ngoisao.vn-w538-h702.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vtv",
+		"Url" : "https://vtv1.mediacdn.vn/thumb_w/650/2019/5/22/ttnga1-1558528125950965635515.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://images.vov.vn/fb/Uploaded/Frf8B6LqIprWhdTzAag/2019_05_24/vov_ha_noi_fc_nam_dinh_PSLZ.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/24/chong-nang-1-ngoisao.vn-w960-h720.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "nld",
+		"Url" : "https://nld.mediacdn.vn/thumb_w/540/2019/5/22/hoangngan-15584974156351708941352-155849767635596131020.png",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "tienphong",
+		"Url" : "https://image2.tienphong.vn/w665/Uploaded/2019/jaetgs/2019_05_22/bia_2_15516213100911973876538_15516213214641225164667_crop_1551621386499358488477_zhdw.png",
+		"Status" : 20,
+		"IsThumb" : 0,
+		"Error" : null
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/24/chong-nang-2-ngoisao.vn-w499-h382.png",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/24/chong-nang-3-ngoisao.vn-w499-h666.png",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/199/2019/05/20190523-youtube-xuong-tay-co-phieu-yeg-cua-yeah1-do-san-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/22/2019/05/20190523-quang-nam-lam-ro-2-lo-dat-cua-vo-cuu-bi-thu-tinh-uy-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 0,
+		"Error" : null
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/24/chong-nang4-ngoisao.vn-w600-h635.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/22/2019/05/20190523-quang-nam-lam-ro-2-lo-dat-cua-vo-cuu-bi-thu-tinh-uy-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/22/2019/05/20190523-quang-nam-lam-ro-2-lo-dat-cua-vo-cuu-bi-thu-tinh-uy-2.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/22/2019/05/20190523-quang-nam-lam-ro-2-lo-dat-cua-vo-cuu-bi-thu-tinh-uy-3.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/24/chong-nang-5-ngoisao.vn-w600-h480.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/croped/0232_belgija_profil_2.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0232_belgija_profil_2.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0235_f1-confidential-concord-agreement-f1-teams-sponsorship.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0258_new_f1_logo_abu_dhabi_grand_prix_gettyimages-879424684.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0240_f1hun2015_jk1760187.jpg.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0916_Diid45ZX0AAXgN_.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0249_mercedes-benz_100691933_h.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0243_gettyimages-1024005272.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0237_f1-kers.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/CTV/042019/09/17/0234_DRS.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "cafef",
+		"Url" : "http://cafefcdn.com/zoom/600_315/2019/photo1558680533681-1558680533953-crop-15586805922391605740656.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "cafef",
+		"Url" : "http://cafefcdn.com/zoom/600_315/2019/photo1558680533681-1558680533953-crop-15586805922391605740656.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_800x600/news/2019/05/23/ba-xa-lam-truongqd911-ngoisao.vn-w420-h252.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "cafef",
+		"Url" : "http://cafefcdn.com/thumb_w/640/2019/5/24/photo-1-1558680533729257134364.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/20160911-lam-truong-hanh-phuc-khoe-anh-ben-vo-tre-9x-o-hawaii-1-ngoisao.vn-w750-h500.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/lam-truong-05-ngoisao.vn-w960-h959.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/lam-truong-noi-ve-tin-don-ly-hon-bb-baaadbmtvj-ngoisao.vn-w600-h343.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/co-duyen-ky-la-it-nguoi-biet-cua-lam-truong-voi-ba-xa-9x-10603246101541411327060424189903174103549681n-1462360319-width500height500-ngoisao.vn-w500-h500.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/lam-truong-9-2568-1553397984-1553406232743807556535-crop-15534063499771742415664-ngoisao.vn-w700-h438.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/54798007-339560996667887-86479-1688-3376-1553400859-1553406232740907518947-ngoisao.vn-w500-h750.png",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "https://media.ngoisao.vn/resize_580/news/2019/05/23/5c978f2e3b35b-ngoisao.vn-w900-h1325.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "nguoiduatin",
+		"Url" : "https://media1.nguoiduatin.vn/thumb_x600x600/media/nguyen-quoc-hung/2019/05/20/co-nguyen-ha-thanh-1.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "ngoisaovn",
+		"Url" : "/public/images/suggest-title.png",
+		"Status" : 21,
+		"IsThumb" : 0,
+		"Error" : "Failed to download"
+	},
+	{
+		"Publisher" : "2sao",
+		"Url" : "https://2sao.vietnamnetjsc.vn/images/2019/05/23/12/05/hs.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "nguoiduatin",
+		"Url" : "https://media1.nguoiduatin.vn/media/nguyen-quoc-hung/2019/05/20/co-nguyen-ha-thanh-2.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "2sao",
+		"Url" : "https://2sao.vietnamnetjsc.vn/images/2019/05/21/11/12/benh-thanh-tich.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "giaoducthoidai",
+		"Url" : "https://image.giaoducthoidai.vn/Uploaded/thuyvt/2019-05-24/2NewFolder/12-VSOA.JPG",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "cafef",
+		"Url" : "http://cafefcdn.com/zoom/600_315/2019/photo1558687554513-1558687554757-crop-15586875596941611534861.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "giaoducthoidai",
+		"Url" : "https://image.giaoducthoidai.vn/Uploaded/thuyvt/2019-05-24/2NewFolder/12-VSOA.JPG",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "motthegioi",
+		"Url" : "https://images.motthegioi.vn:8443/media/trunghuongvu/aWNvbmEtbnVjbGV1cy0xYS03Njh4NDQx.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "cafef",
+		"Url" : "http://cafefcdn.com/zoom/600_315/2019/photo1558687554513-1558687554757-crop-15586875596941611534861.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "bongda24h",
+		"Url" : "https://static.bongda24h.vn/medias/standard/2019/5/22/chelsea-troi-chan-thanh-cong-lao-tuong-caballero.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietnamplus",
+		"Url" : "https://cdnimg.vietnamplus.vn/t460/Uploaded/pcfo/2019_05_24/2405_son_la.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "cafef",
+		"Url" : "http://cafefcdn.com/2019/5/24/photo-1-15586875548391033197707.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "motthegioi",
+		"Url" : "https://images.motthegioi.vn:8443/media/trunghuongvu/aWNvbmEtbnVjbGV1cy0xYS03Njh4NDQx.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietnamplus",
+		"Url" : "https://cdnimg.vietnamplus.vn/t620/uploaded/pcfo/2019_05_24/2405_son_la.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-23/155857648471068-thumbnail-auto-crop.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-23/Hom-nay-23-5-Quoc-hoi-thao-luan-ve-du-an-Luat-Phong-chong-tac-hai-cua-ruou-bia-ruou_bia-1558576465-width490height298.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "thethaovanhoa",
+		"Url" : "https://cdnmedia.thethaovanhoa.vn/Upload/qeXw6Srue12aQG46um9kw/files/2019/05/235/rita-ora-trang-suc-cannes.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "thethaovanhoa",
+		"Url" : "https://cdnmedia.thethaovanhoa.vn/Upload/qeXw6Srue12aQG46um9kw/files/2019/05/235/rita-ora-trang-suc-cannes-2.jpeg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/tuduc/092017/18/17/croped/4157_Honda_City_2017-1.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "thethaovanhoa",
+		"Url" : "https://cdnmedia.thethaovanhoa.vn/Upload/qeXw6Srue12aQG46um9kw/files/2019/05/235/celebrity-jewelry-6.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/tuduc/092017/18/17/4157_Honda_City_2017-1.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/duchuy/052019/20/22/3138_khuyen_mai_honda_cr-v.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-22/15585242065394-thumbnail-auto-crop.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/photo_data/duchuy/082018/26/09/3513_honda-fuel-challenge-034.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-22/Dien-vien-Maya-2v-1558523453-width860height517.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-22/Dien-vien-Maya-2vo-1558523453-width720height960.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-22/Dien-vien-Maya-a6-1558523453-width700height420.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/images/2019-05-22/Dien-vien-Maya-a2-1558523453-width750height500.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "tienphong",
+		"Url" : "https://image.tienphong.vn/Uploaded/duynam/2019_05_22/DAM_VINH_HUNG_BGKMWVN_MFAC.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "tienphong",
+		"Url" : "https://image.tienphong.vn/w665/Uploaded/2019/jaetgs/2019_05_22/dam_vinh_hung_bgkmwvn_mfac.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "tienphong",
+		"Url" : "https://image.tienphong.vn/w665/Uploaded/2019/jaetgs/2019_05_22/dsc_9388_1_xjhe.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietnamplus",
+		"Url" : "https://cdnimg.vietnamplus.vn/t460/Uploaded/lepz/2019_05_23/ttxvn_giadau.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietnamplus",
+		"Url" : "https://cdnimg.vietnamplus.vn/t620/uploaded/lepz/2019_05_23/ttxvn_giadau.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/55/2019/05/20190523-thu-phu-vai-thieu-mat-mua-gia-leo-thang-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/55/2019/05/20190523-thu-phu-vai-thieu-mat-mua-gia-leo-thang-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 0,
+		"Error" : null
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/zoom/600_315/2019/5/23/1-155854046482411690424-1558581173918545820633-crop-15585811886142129660873.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "bongdaplus",
+		"Url" : "http://img.f51.bdpcdn.net/Assets/Media/2019/05/23/7/firmino.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "bongdaplus",
+		"Url" : "http://img.f51.bdpcdn.net/Assets/Media/2019/05/23/7/firmino.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "bongdaplus",
+		"Url" : "http://img.f51.bdpcdn.net/Assets/Media/2019/05/23/26/firmino.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "bongdaplus",
+		"Url" : "http://img.f51.bdpcdn.net/Assets/Media/2019/05/23/26/firmino.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/190/2019/05/20190523-hoa-hau-han-lo-thu-tinh-nhan-tao-de-sinh-con-cho-chong-kem-18-tuoi-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 0,
+		"Error" : null
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/190/2019/05/20190523-hoa-hau-han-lo-thu-tinh-nhan-tao-de-sinh-con-cho-chong-kem-18-tuoi-1.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/190/2019/05/20190523-hoa-hau-han-lo-thu-tinh-nhan-tao-de-sinh-con-cho-chong-kem-18-tuoi-2.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/zoom/600_315/2019/5/23/1-155854046482411690424-1558581173918545820633-crop-15585811886142129660873.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/duchuy/052019/19/11/croped/0505_MBDA_2019008.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://a9.vietbao.vn/images/vn899/190/2019/05/20190523-hoa-hau-han-lo-thu-tinh-nhan-tao-de-sinh-con-cho-chong-kem-18-tuoi-3.jpg",
+		"Status" : 0,
+		"IsThumb" : 1,
+		"Error" : null
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/2019/5/22/8-15585408186001450407179.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "motthegioi",
+		"Url" : "https://images.motthegioi.vn:8443/media/thyhang/02_05_2019/YXVkaQ==.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/duchuy/052019/19/11/0527_MBDA_2019017.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/2019/5/22/6-15585404821741538763812.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/duchuy/052019/19/11/0514_MBDA_2019012.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/2019/5/22/4-1558540476668511952974.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/duchuy/052019/19/11/2414_7N2A7409.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/thumb_w/660/2019/5/22/7-15585408151752143002060.jpg",
+		"Status" : 29,
+		"IsThumb" : 1,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "newsotofun",
+		"Url" : "https://news.otofun.net/stores/news_dataimages/duchuy/052019/19/11/0505_MBDA_2019008.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "motthegioi",
+		"Url" : "https://images.motthegioi.vn:8443/media/thyhang/02_05_2019/YXVkaQ==.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "http://sohanews.sohacdn.com/2019/5/22/2-15585404712601812691977.jpg",
+		"Status" : 29,
+		"IsThumb" : 0,
+		"Error" : ""
+	}
+]

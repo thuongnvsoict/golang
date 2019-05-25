@@ -1,0 +1,703 @@
+[
+	{
+		"Publisher" : "nld",
+		"Url" : "https://vcplayer.mediacdn.vn/1.1/?_site=nl&vid=nld/kumhj7n4hzkdv66-y5ybzxd7zovcy5/2019/05/22/plugin-video-1558493432-1558496226237-5239d.mp4&autoplay=false&poster=https://video-thumbs.mediacdn.vn/nld/kumhj7n4hzkdv66-y5ybzxd7zovcy5/2019/05/22/plugin-video-1558493432-1558496226237-5239d.jpg&_info=f3751b1f90b3437b93cd9328bad3bea3",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://nld.com.vn/news-20190522103912095.htm"
+	},
+	{
+		"Publisher" : "afamily",
+		"Url" : "https://hls.mediacdn.vn/afamily/2019/5/22/0046491293-1558539735217597574749-4a372.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://afamily.vn/goc-canh-bao-xe-may-bat-ngo-ro-ga-lao-vao-hang-tap-hoa-nguyen-nhan-tu-su-bat-can-ma-nhieu-phu-huynh-mac-phai-20190522225448248.chn"
+	},
+	{
+		"Publisher" : "ngoisao",
+		"Url" : "https://d1.vnecdn.net/ngoisao/video/video/web/mp4/,240p,,/2019/05/22/vdv-cu-ta-bi-gay-gap-chan-khi-dang-thi-dau-1558516392/vne/master.m3u8",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://video.ngoisao.net/the-thao/do-cu-gay-gap-chan-khi-co-nang-muc-ta-250-kg-3927550.html"
+	},
+	{
+		"Publisher" : "afamily",
+		"Url" : "https://www.youtube.com/watch?v=EUEUZDV-in0",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://afamily.vn/goc-canh-bao-xe-may-bat-ngo-ro-ga-lao-vao-hang-tap-hoa-nguyen-nhan-tu-su-bat-can-ma-nhieu-phu-huynh-mac-phai-20190522225448248.chn"
+	},
+	{
+		"Publisher" : "infonet",
+		"Url" : "https://streaming.infonet.vn/4aca3844488eba799551ed20034408b5/5ce68b40/2019_05_22/vungan/Vo_ba_gay_chu_y_vi_trailer_nhieu_canh_nong.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://infonet.vn/infonet-post300370.info"
+	},
+	{
+		"Publisher" : "infonet",
+		"Url" : "https://streaming.infonet.vn/171af8b5699ee5fff0da14c94ec6527f/5ce73400/2019_05_22/phuongthuy/60879579_2653300598073303_2233620320927875072_n_1.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://infonet.vn/infonet-post300366.info"
+	},
+	{
+		"Publisher" : "thethao247",
+		"Url" : "https://player.sohatv.vn/embed/100473/?vid=thethao247/2019/4/26/filip-nguyen-sk-slavia-praha-fc-slovan-liberec-1-11-15562396454511331231475-b2588.mp4&autoplay=false&midroll=0.5&_site=thethao247&poster=https://video-thumbs.mediacdn.vn/thethao247/2019/4/26/filip-nguyen-sk-slavia-praha-fc-slovan-liberec-1-11-15562396454511331231475-b2588.jpg&ads=true&location=",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://thethao247.vn/322-filip-nguyen-duoc-vinh-danh-la-thu-mon-xuat-sac-nhat-giai-vdqg-ch-sec-d180368.html"
+	},
+	{
+		"Publisher" : "afamily",
+		"Url" : "https://hls.mediacdn.vn/afamily/2019/5/20/a4H7dpPbdCc-1558330261235394531798.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://video.afamily.vn/video-64417.chn"
+	},
+	{
+		"Publisher" : "afamily",
+		"Url" : "https://hls.mediacdn.vn/afamily/2019/5/20/nQtp1rPK2w0-15583317734262095445177.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://video.afamily.vn/video-64419.chn"
+	},
+	{
+		"Publisher" : "afamily",
+		"Url" : "https://hls.mediacdn.vn/afamily/2019/5/20/Bm6XCHy89rg-15583324079971200829651.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://video.afamily.vn/video-64420.chn"
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/videoclip/2019-05-14/1557800648-lenovosfoldablepc.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://danviet.vn/cong-nghe/may-tinh-bang-thinkpad-x1-qua-dep-mo-ra-tuong-lai-cua-may-tinh-979435.html"
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/videoclip/2019-05-20/1558344311-khuccua.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://danviet.vn/xe360/soc-tay-dua-chuyen-nghiep-cung-nga-mu-khi-xem-nhung-co-gai-son-cuoc-do-doc-981350.html"
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/videoclip/2019-05-22/1558487236-bui.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://danviet.vn/chuyen-la/video-canh-tuong-ngay-bien-thanh-dem-nhu-tan-the-o-uc-981762.html"
+	},
+	{
+		"Publisher" : "kienthuc",
+		"Url" : "https://streaming-kienthuc.zadn.vn/094b8be7db93004abf81e26c546abccd/5ce69950/2018_07_10/nguyenvan/Cach_nuoi_giun_que_tai_nha_cho_nhung_can_thu_me_cau_ca.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://kienthuc.net.vn/kham-pha/di-cau-ca-phat-hien-dieu-kinh-di-ai-cung-khiep-1225705.html"
+	},
+	{
+		"Publisher" : "danviet",
+		"Url" : "http://streaming1.danviet.vn/upload/2-2019/videoclip/2019-05-21/1558404491-cuop.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://danviet.vn/the-gioi/anh-video-nhom-cuop-di-mo-to-cam-dao-bua-cuop-cua-hang-giua-ban-ngay-981522.html"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/8R0U5Wxd8-Q/4ae82ee27da594fbcdb4/e34452c54e80a7defe91/480/20190327_02_quang_hai_compilat.mp4?authen=exp=1558677841~acl=/8R0U5Wxd8-Q/*~hmac=0da2e3b414c79f1df89722e0adaa84a4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://news.zing.vn/zingnews-post949017.html"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/8R0U5Wxd8-Q/4ae82ee27da594fbcdb4/e34452c54e80a7defe91/480/20190327_02_quang_hai_compilat.mp4?authen=exp=1558677841~acl=/8R0U5Wxd8-Q/*~hmac=0da2e3b414c79f1df89722e0adaa84a4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://news.zing.vn/zingnews-post949017.html"
+	},
+	{
+		"Publisher" : "infonet",
+		"Url" : "https://streaming.infonet.vn/86328e98b48e655947d3f771dc254a48/5ce68b40/2019_05_21/minhthu/At_Sea_US_navy_conducts_exercises_in_Persian_Gulf.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://infonet.vn/infonet-post300250.info"
+	},
+	{
+		"Publisher" : "infonet",
+		"Url" : "https://streaming.infonet.vn/85b89196986af73bd2c93fc5f060a63d/5ce68b40/2019_05_21/minhthu/21__72________.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://infonet.vn/infonet-post300230.info"
+	},
+	{
+		"Publisher" : "infonet",
+		"Url" : "https://streaming.infonet.vn/939eed73b1d3031c51fc998040205536/5ce68b40/2019_05_21/minhthu/Fighterbomber_JH7_PLA_Air_Force_crashed_in_eastern_China.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://infonet.vn/infonet-post300193.info"
+	},
+	{
+		"Publisher" : "24h",
+		"Url" : "https://cdn.24h.com.vn/upload/2-2019/videoclip/2019-05-22/1558531934-768-1558487236-bui.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://www.24h.com.vn/phi-thuong-ky-quac/video-canh-tuong-ngay-bien-thanh-dem-nhu-tan-the-o-uc-c159a1052727.html"
+	},
+	{
+		"Publisher" : "24h",
+		"Url" : "https://cdn.24h.com.vn/upload/2-2019/videoclip/2019-05-22/1558530139-seri8_2.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.24h.com.vn/the-thao/chan-dong-bi-a-co-thu-du-bi-viet-nam-thang-dan-sao-quoc-te-tai-world-cup-c101a1052722.html"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190523/042901213664196.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://tiin.vn/chuyen-muc/phim/su-menh-cuoi-cua-thien-than-len-song-tuong-khong-hay-ma-hay-khong-tuong.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/b28c4035c621097e9c89a8a128b79308/5ce67d30/2019_05_22/UElBrCPLr9DyoqsYrG5iQA/Bieu_tinh_bao_luc_o_Indonesia.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODUx.vov"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190522/092457258460893.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://tiin.vn/chuyen-muc/yeu/tinh-toan-ai-se-la-nguoi-tra-tien-3-bat-pho-cap-doi-quyet-dinh-khong-bam-nut-hen-ho.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/e68f6cbbed957d795536f25ece7e01b3/5ce68b40/2019_05_22/1loDsmjqJL9xf4AtMkj7w/My.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODQ3.vov"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/96be503e1206fd074591e5cf75e20d91/5ce67d30/2019_05_22/ZoXrexDR7h4/BTS_Performs_Boy_with_Luv__The_Voice_Live_Finale_2019_4.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4Nzk5.vov"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/8e3fb4be246c710d2a070e19b9ffa33f/5ce67d30/2019_05_22/MkHbJNoaVAeUewolg2nzYA/PREMIER_LEAGUE_TROPHY_PRANK__De_Bruyne__Aguero_Prank_Man_City_Fans.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODE0.vov"
+	},
+	{
+		"Publisher" : "nld",
+		"Url" : "https://vcplayer.mediacdn.vn/1.1/?_site=nl&vid=nld/r9gjtjs0zmiakvccccccccccccutmj/2019/05/20/plugin-referee-collapses-on-the-pitch-and-dies-1558354950570-6729b.mp4&autoplay=false&poster=https://video-thumbs.mediacdn.vn/nld/r9gjtjs0zmiakvccccccccccccutmj/2019/05/20/plugin-referee-collapses-on-the-pitch-and-dies-1558354950570-6729b.jpg&_info=78b80b5755b14157953c7d07572c9ad7",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://nld.com.vn/news-20190520192511101.htm"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/6b3d44e9346709d1e83fdd428ff2da80/5ce68b40/2019_05_21/UElBrCPLr9DyoqsYrG5iQA/How_Long_Does_it_Take_to_Get_to_Mars.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4Njg0.vov"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/bbb42a8e045888927306be859ad2f705/5ce68b40/2019_05_21/3JL_fs6L8OfBbSukWfg39Q/Untitled.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4NzMw.vov"
+	},
+	{
+		"Publisher" : "afamily",
+		"Url" : "https://hls.mediacdn.vn/afamily/2019/5/22/2-noi-tieng-nhat-choang-ngop-15585322928161494110293-6e235.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://afamily.vn/quoc-truong-ve-nha-di-con-vai-vu-con-rat-nhieu-cai-dang-xem-toi-dang-lo-bi-khan-gia-nem-da-day-20190522205449872.chn"
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "https://hls.mediacdn.vn/sohanews/2019/5/22/m9s5a6cxrz3ywips-15584997215171204498432-2e610.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://soha.vn/giai-mat-tho-nhi-ky-va-khung-bo-hts-dang-tung-buoc-tien-vao-thong-long-cua-nga-syria-20190522114834187.htm"
+	},
+	{
+		"Publisher" : "soha",
+		"Url" : "https://hls.mediacdn.vn/sohanews/2019/5/22/1xsz7syq3gcqi0hr-1558511120621970426741-c2d62.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://soha.vn/giai-mat-tho-nhi-ky-va-khung-bo-hts-dang-tung-buoc-tien-vao-thong-long-cua-nga-syria-20190522114834187.htm"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/rS8gZc9Bp3A/432288d05097b9c9e086/6fdb95acf6e91fb746f8/480/QlxSrPXVUm2nYZQW.mp4?authen=exp=1558707599~acl=/rS8gZc9Bp3A/*~hmac=05ad1c675f4e7de0da2d4786d36a2c56",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://news.zing.vn/zingnews-post948945.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/df77c33d9025d32b36c93646cb10ba55/5ce67d30/2019_05_21/3iNZru14l93yoqsYrG5iQA/215.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4NzQy.vov"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/22/vua-buoc-xuong-xe-khach-nguoi-dan-ong-lien-bi-xe-khac-dam-vang-hang-chuc-met.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/doi-song/vua-buoc-xuong-xe-khach-nguoi-dan-ong-lien-bi-xe-khac-dam-vang-hang-chuc-met-a276526.html"
+	},
+	{
+		"Publisher" : "anninhthudo",
+		"Url" : "https://anninhthudo.vn/video/2019_05_22/thuyan/bong_cuoi_up.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://anninhthudo.vn/truyen-hinh-atv/clip-thanh-nien-buon-khi-cuoi-bi-bat-tren-duong-giao-hang/811456.antd"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/UJxzVeuJ00E/80aa10d3909479ca2085/1649048212c7fb99a2d6/480/TFBOYS_RoyMV_KarRoy.mp4?authen=exp=1558676074~acl=/UJxzVeuJ00E/*~hmac=9fdbc93d2125c20099e3bf25b644f4c0",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://news.zing.vn/zingnews-post948911.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/22/lai-xe-dap.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/video/video-hot/video-xe-dap-lao-nhu-ten-ban-qua-thanh-chan-nguoi-phu-nu-nga-lon-dau-xuong-dat-a276460.html"
+	},
+	{
+		"Publisher" : "anninhthudo",
+		"Url" : "https://anninhthudo.vn/video/2019_05_22/atv/cuop.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://anninhthudo.vn/truyen-hinh-atv/triet-pha-o-nhom-chuyen-cuop-tai-san-tren-dai-lo-thang-long/811403.antd"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/15/ong-noi-lao-vao-dam-chay-giai-cuu-chau.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/tin-tuc/tin-trong-nuoc/video-ong-noi-ke-lai-giay-phut-lao-vao-dam-chay-giai-cuu-chau-nho-a275428.html"
+	},
+	{
+		"Publisher" : "anninhthudo",
+		"Url" : "https://anninhthudo.vn/video/2019_05_22/atv/PS.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://anninhthudo.vn/truyen-hinh-atv/kho-khan-cuu-nan-cuu-ho-khi-chay-nha-trong-ngo/811397.antd"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/53ba606432b7585eaf2b84934ad71227/5ce68b40/2019_05_21/Ct2txux1m2he06prFi0Gg/cha_me_noi_chuyen_vs_con.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4Nzg1.vov"
+	},
+	{
+		"Publisher" : "anninhthudo",
+		"Url" : "https://anninhthudo.vn/video/2019_05_22/atv/n2o.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://anninhthudo.vn/truyen-hinh-atv/cho-khi-cuoi-di-ban-gap-ngay-luc-luong-chuc-nang/811396.antd"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/22/tong-cho-den-do.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/video/video-hot/video-kinh-hoang-tai-xe-dap-nham-chan-ga-ui-hang-loat-nguoi-di-bo-sang-duong-a276529.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/22/loai-an-thit-hung-hang.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/video/video-hot/video-chon-mau-lanh-ra-tay-vo-cung-dut-khoat-doat-mang-chuot-trong-tich-tac-a276530.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/21/su-tu.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/video/video-hot/video-bi-su-tu-ngoam-co-loi-di-cho-hoang-cao-tay-gia-chet-va-cai-ket-ngo-ngang-a276374.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/b260ca7c3a48e5b38dd1c9f9c97bab7f/5ce68b40/2019_05_21/1bk6qYJmfyo/chien_ham_Anh_phong_ten_lua_danh_chan_UAV.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4NTk0.vov"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/15/khoanh-khac-cuo-doi.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/viec-tot-quanh-ta/hanh-dong-dep-cua-nguoi-bao-ve-nhat-duoc-63kg-vang-trong-buoi-truc-dem-a275498.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/e4319444f9588d3aff198faeb635cc3f/5ce67d30/2019_05_22/1loDsmjqJL9xf4AtMkj7w/My.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODQ3.vov"
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "http://115.146.122.132:555/videos/vni99/bichngochangct/be-khoa-xe-sh-nhanh-nhu-chop.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://vietbao.vn/Media/Trom-be-khoa-xe-SH-nhanh-nhu-chop-o-Ha-Noi/2147848493/821/"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/_CRRm2HOsWA/0afb7f39a37e4a20136f/f80e2b124057a909f046/480/Watch__Kham_pha.mp4?authen=exp=1558683339~acl=/_CRRm2HOsWA/*~hmac=0575d1d16cdb5bcdfef692e854e63a68",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://news.zing.vn/zingnews-post948997.html"
+	},
+	{
+		"Publisher" : "nld",
+		"Url" : "https://vcplayer.mediacdn.vn/1.1/?_site=nl&vid=nld/syfo6sxjtc1g8-iehp9klemhbiqxg9/2019/05/17/plugin-tan-cong-tu-xa-len-he-thong-ho-tro-ha-canh-1558063874519-ad768.mp4&autoplay=false&poster=https://video-thumbs.mediacdn.vn/nld/syfo6sxjtc1g8-iehp9klemhbiqxg9/2019/05/17/plugin-tan-cong-tu-xa-len-he-thong-ho-tro-ha-canh-1558063874519-ad768.jpg&_info=6a3343aff1ac4257b07c65280684ad68",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://nld.com.vn/news-20190517103951611.htm"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-22/chay-lon-o-khu-cong-nghiep-viet-huong-binh-duong-mp4-1558516387-width1280height720.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/video-dam-chay-khung-khiep-tai-kcn-viet-huong-1-tinh-binh-duong-d421704.html"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-22/chay-o-khu-cong-nghiep-viet-huong-binh-duong-chay-lon-kcn-binh-duong-mp4-1558516479.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/video-dam-chay-khung-khiep-tai-kcn-viet-huong-1-tinh-binh-duong-d421704.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/053e6c43ca826eee5b8895d80b9f181b/5ce68b40/2019_05_21/T3vPEpIjcM/xuat_khau_cong_nghe.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4NjMx.vov"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/553388f20eec3af40b33201e323ed76b/5ce67d30/2019_05_22/_0ZL7Vu3KXs/Dai_truyen_hinh_ky_thuat_so_VTC_9.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODIy.vov"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-22/video-ps-mp4-1558508063.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/can-canh-bai-rac-khung-dau-nguon-song-han-khien-nguoi-dan-buc-xuc-d421680.html"
+	},
+	{
+		"Publisher" : "vietbao",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/2l1RMNvwB8Q/9c37a5b43df3d4ad8de2/60b9dd413a04d35a8a15/480/20190422_03_highlights_psg.mp4?authen=exp=1558677833~acl=/2l1RMNvwB8Q/*~hmac=f131f974db837f25b2ad6e45b776db5d",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "http://vietbao.vn/The-thao/Mbappe-se-lat-do-Neymar-de-lam-thu-linh-o-PSG/120948942/134/"
+	},
+	{
+		"Publisher" : "kienthuc",
+		"Url" : "https://streaming-kienthuc.zadn.vn/dc3218385768a504c948b34ac74a31a3/5ce6fbc0/2019_05_22/trucchinh2/SieuXeBentley.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://kienthuc.net.vn/truyen-hinh-video/video-qua-trinh-bien-sieu-xe-bentley-thanh-xe-tang-1225871.html"
+	},
+	{
+		"Publisher" : "bongdaplus",
+		"Url" : "http://vcplayer.mediacdn.vn/1.1/?_site=bongdaplus&vid=premierleague/2018/12/22/man-city-phut-36.mp4&autoplay=true&urlParent=http://bongdaplus.vn/22h00-dem-nay-truc-tiep-man-city-vs-crystal-palace-2375581812.html",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "http://bongdaplus.vn/hazard-son-kompany-ngam-ngui-xep-sau-townsend-2510471905.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/21/caduoivideo.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/kinh-doanh/thi-truong/video-can-canh-ngu-dan-bat-duoc-ca-duoi-khong-lo-nang-13-tan-a276377.html"
+	},
+	{
+		"Publisher" : "vnexpress",
+		"Url" : "https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,240p,360p,480p,,/2019/05/02/dan-thai-bat-ngo-khi-biet-nu-tuong-duoc-phong-lam-hoang-hau-1556787872/vne/master.m3u8",
+		"status" : 20,
+		"error" : null,
+		"posturl" : "https://vnexpress.net/the-gioi/dan-thai-lan-vui-mung-khi-nu-dai-tuong-duoc-tan-phong-hoang-hau-3917569.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/22/den-min-bai-nay-chill-phet.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/giai-tri/tin-tuc-giai-tri/mv-moi-cua-den-min-gianh-top-1-trending-youtube-sau-hon-1-ngay-ra-mat-a276528.html"
+	},
+	{
+		"Publisher" : "kienthuc",
+		"Url" : "https://streaming-kienthuc.zadn.vn/dffa188f4f529b601a4e7faaf7678947/5ce68b40/videostore/vuthuy/2016_03_06/vtv_bi_khoa_kenh_youtube-_gian_nan_chan_vi_pham_ban_quyen_LXOM.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://kienthuc.net.vn/cong-nghe/xon-xao-loat-kenh-youtube-kiem-tien-khung-bi-khoa-bat-ngo-1226209.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/326f97a377a47cbc18ce0779a5829b47/5ce67d30/2019_05_21/Pqi6NNgqe44/Dai_truyen_hinh_ky_thuat_so_VTC_3.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4NTk5.vov"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/jjNu3jpMWrA/5e24b5ec6aab83f5daba/744de71e825b6b05324a/480/video46.mp4?authen=exp=1558699203~acl=/jjNu3jpMWrA/*~hmac=2ef01097205e9269612f44230c504280",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://news.zing.vn/zingnews-post948763.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/21/treu-bo.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/video/video-hot/video-bi-ca-dan-bo-duoi-theo-vi-net-po-xe-thanh-nien-vit-ga-chay-mat-hut-a276406.html"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-21/den-ft-min-ba-i-na-y-chill-phe-t-40-m-v-41-mp4-1558423897.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/loi-bai-hat-bai-nay-chill-phet-cua-den-vau-ft-min-co-gi-hot-d421547.html"
+	},
+	{
+		"Publisher" : "doisongphapluat",
+		"Url" : "https://www.doisongphapluat.com/radiant.php?url=https://cdnvideo.doisongphapluat.com/video/2019/05/17/con-dap-91-tuoi-o-my-bi-vo.mp4",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://www.doisongphapluat.com:443/video/video-hot/video-kinh-hoang-khoanh-khac-dap-91-tuoi-bi-vo-nuoc-ao-ao-nhu-thac-lu-a275800.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/8e3fb4be246c710d2a070e19b9ffa33f/5ce67d30/2019_05_22/MkHbJNoaVAeUewolg2nzYA/PREMIER_LEAGUE_TROPHY_PRANK__De_Bruyne__Aguero_Prank_Man_City_Fans.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODE0.vov"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/9d3c3b890f1741474fa1d1d258fd9c26/5ce68b40/2019_05_22/GR6WOoAxWrGhe06prFi0Gg/Thu_mon_Bui_Tien_Dung_Chua_chac_da_duoc_goi_len_DT_Viet_Nam_hay_DT_U23_1.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4Nzk2.vov"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/e55ad2933aae93047c429f3192cb1354/5ce67d30/2019_05_22/pvdinhdu/CHAY_LON_O_KCN_VIET_HUONG.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4ODk0.html"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-18/tha-hoa-dang-nhac-thien-mp4-1558196373-width1920height1080.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/hoa-dang-lung-linh-tren-kenh-nhieu-loc-thi-nghe-mung-le-phat-dan-d421296.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/2e6a38a5331db9db55263b248cd653c1/5ce68b40/2019_05_22/MkHbJNoaVAeUewolg2nzYA/FILIP_Nguyen_Thu_mon_gioi_hon_Dang_Van_Lam__Muon_khoac_ao_DTQG_Viet_Nam__CH_Sec.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4ODU5.vov"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-12/bay-tren-bien-mp4-1557663078-width1280height720.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/man-nhan-tro-bay-tren-bien-o-nha-trang-d420614.html"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190423/042606808581710.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://tiin.vn/chuyen-muc/phim/hoc-cach-quyen-ru-dan-ong-cua-chi-dep-anne-hathaway-trong-quy-co-lua-dao.html"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/8fdce057fe1ed78918e4e53952f37be8/5ce68b40/2019_05_22/pvdinhdu/DIEM_TIN_225.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4ODg5.html"
+	},
+	{
+		"Publisher" : "baogiaothong",
+		"Url" : "https://cdn.baogiaothong.vn/upload/videos/2019-2/article_video/2019-05-21/lao-dau-vao-o-to-mp4-1558413002-width1920height1080.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.baogiaothong.vn/video-kinh-hoang-nguoi-dan-ong-lao-vao-gam-xe-khach-dang-chay-de-tu-tu-d421538.html"
+	},
+	{
+		"Publisher" : "newszing",
+		"Url" : "https://znews-mcloud-bf-s2.zadn.vn/gSZoy_AngqI/e0adbf2161668838d177/f60524654320aa7ef331/360/XINH_LUNG_LINH_XLL__ALI_HOANG_.mp4?authen=exp=1558702805~acl=/gSZoy_AngqI/*~hmac=a9f0d0c240fe3fd9b0f88245f3e348e7",
+		"status" : 21,
+		"error" : "Exception of type 'Hit.DownloadManager.Exception.ResumingNotSupportedException' was thrown.",
+		"posturl" : "https://news.zing.vn/zingnews-post948622.html"
+	},
+	{
+		"Publisher" : "vov",
+		"Url" : "https://streaming.vov.vn/311f366a7c09adbdc7ba79e106a4faae/5ce68b40/2019_05_20/4rTMId9NtFPyoqsYrG5iQA/Lich_thi_dau_Kings_Cup_2019__Viet_Nam_vs_Thai_Lan__An_Do_vs_Curacao.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://vov.vn/content/NjM4NDc1.vov"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190521/105206784823478.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://tiin.vn/chuyen-muc/yeu/thanh-nien-ha-noi-tu-choi-tra-tien-3-to-pho-toi-xem-co-ay-la-nguoi-xa-la-nen-khong-can-lich-thiep.html"
+	},
+	{
+		"Publisher" : "thanhnien",
+		"Url" : "https://hls.mediacdn.vn/thanhnien/2019/5/18/he-lo-nguyen-nhan-giet-nguoi-do-be-tong-18052019-1558179410746335589756-bb4fd.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://thanhnien.vn/content/ODUyNDEz.html"
+	},
+	{
+		"Publisher" : "thanhnien",
+		"Url" : "https://hls.mediacdn.vn/thanhnien/2019/5/19/vali-day-vang-cua-nghi-pham-giet-nguoi-do-be-tong19052019-1558263856766710347763-309e2.mp4",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://thanhnien.vn/content/ODUyNDEz.html"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190521/105206784823478.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://tiin.vn/chuyen-muc/yeu/chang-trai-ha-noi-bi-nem-da-vi-3-to-pho-len-tieng-moi-gap-nhau-chua-yeu-quy-gi-thi-sao-phai-tra-tien.html"
+	},
+
+	{
+		"Publisher" : "24h",
+		"Url" : "https://cdn.24h.com.vn/upload/2-2019/videoclip/2019-05-22/1558522542-seri7.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://www.24h.com.vn/the-thao/huyen-thoai-bi-a-ly-the-vinh-nguoc-dong-cuc-dinh-tai-world-cup-c101a1052730.html"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190521/105206784823478.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://tiin.vn/chuyen-muc/yeu/chang-trai-ha-noi-hen-ho-ban-gai-dang-ra-chi-tra-1-bat-ruoi-thoi-2-bat-la-cai-ga-lang-roi.html"
+	},
+	{
+		"Publisher" : "ngoisao",
+		"Url" : "https://d1.vnecdn.net/ngoisao/video/video/web/mp4/,240p,360p,,/2019/05/22/bi-ban-gai-tat-52-cai-tren-pho-bi-khong-tang-dien-thoai-moi--1558514521/vne/master.m3u8",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://video.ngoisao.net/thoi-cuoc/bi-ban-gai-tat-52-cai-vi-khong-tang-dien-thoai-moi-ngay-tinh-nhan-3927455.html"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/32d59f24abcbf6e81143211b9909b3d9/5ce68b40/2019_05_18/pvdinhdu/Banh_xeo_Dinh_Cong_Trang_dung_chan_noi_quan_quen.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4MTQ4.html"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/35a4c89981fb72eaa88eaefcb45dd13c/5ce68b40/2019_05_14/haihanh/BAOTANG_DAKLAK_1.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4MDEw.html"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/16bebf26ad32c83427c34dd2db4c104f/5ce68b40/2019_05_21/pvthuyquyen/clip_tin_tum_cang_do_cms_1.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4Nzk0.html"
+	},
+	{
+		"Publisher" : "thethao247",
+		"Url" : "https://player.sohatv.vn/embed/100473/?vid=thethao247/2019/4/22/psg-champions1-1555904123308147345976-b491d.mp4&autoplay=false&midroll=0.5&_site=thethao247&poster=https://video-thumbs.mediacdn.vn/thethao247/2019/4/22/psg-champions1-1555904123308147345976-b491d.jpg&ads=true&location=",
+		"status" : 0,
+		"error" : null,
+		"posturl" : "https://thethao247.vn/308-chuyen-nhuong-ngay-23-5-d180361.html"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/434420d66a25e9b6ebfe3b44a525dd0b/5ce68b40/2019_05_20/pvdinhdu/DIEM_TIN_205.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4Njcy.html"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/a6ce156637002312dfcd8066481f48d0/5ce67d30/2019_05_19/pvthuhuong/dt_195_cms.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4NTYz.html"
+	},
+	{
+		"Publisher" : "anninhthudo",
+		"Url" : "https://anninhthudo.vn/video/2019_05_22/atv/matuy.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://anninhthudo.vn/truyen-hinh-atv/cong-an-hai-duong-phat-hien-vu-van-chuyen-30-banh-heroin/811395.antd"
+	},
+	{
+		"Publisher" : "sggp",
+		"Url" : "http://video.sggp.org.vn/cceedd7068dada2687232a938358536d/5ce67d30/2019_05_17/pvdinhdu/Thai_Nguyen_phat_hien_hang_loat_dong_vat_quy_hiem_trong_nha_dan_1.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://www.sggp.org.vn/content/NTE4MzU0.html"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190522/052559261883460.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://tiin.vn/chuyen-muc/nhac/truoc-khi-album-ost-chi-tro-ly-cua-anh-len-ke-my-tam-xao-nau-ca-khuc-cu-cua-binz.html"
+	},
+	{
+		"Publisher" : "anninhthudo",
+		"Url" : "https://anninhthudo.vn/video/2019_05_22/atv/lxe.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "https://anninhthudo.vn/truyen-hinh-atv/trung-tam-dao-tao-lai-xe-phai-tu-choi-giang-day-doi-voi-hoc-vien-da-su-dung-ruou-bia/811392.antd"
+	},
+	{
+		"Publisher" : "tiin",
+		"Url" : "http://medianews.netnews.vn:8080/tiin//archive/media/20190522/025132320372397.mp4",
+		"status" : 29,
+		"error" : "",
+		"posturl" : "http://tiin.vn/chuyen-muc/nhac/dat-thanh-tich-moi-tren-bxh-billboard-txt-khang-dinh-vi-the-khong-phai-nhom-tan-binh-nao-cung-lam-duoc.html"
+	}
+]
