@@ -1,6 +1,6 @@
 ##DOWNLOAD IMAGES AND VIDEOS
 
-####Videos
+####Videos:
 
 - Input: json file
 
@@ -15,8 +15,7 @@
      ffmpeg, youtube-dl
      ```
 
-
-####Images
+####Images:
 
 - Input: json file
 
@@ -27,3 +26,9 @@
     .jpg, .png,....
      ```
 - Requirement: 
+
+####Run:
+```sh
+    $ cd ./downloader
+    $ go run *.go
+```
